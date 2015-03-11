@@ -13,6 +13,7 @@ Credit to Zhang Lei
 
 
 #include <iostream>
+#include <vector>
 
 using namespace std;
 
